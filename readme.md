@@ -124,5 +124,52 @@ If you reuse ideas from this repo, please cite:
 ---
 
 
+## [[AI Study Oracle]]
+
+### One-Line Summary
+
+Use AI to turn course materials into exam predictions, practice exams, cheat sheets, and study plans.
+
+### Origin
+
+Studying started to feel like data science:
+
+```text
+sample prior quizzes + exams + homework + lectures
+→ infer likely learning outcomes
+→ predict high-yield topics
+→ generate practice
+→ test weaknesses
+→ revise
+```
+
+### Inputs
+
+- Lecture slides
+- Lecture transcripts
+- Homework
+- Quizzes
+- Exams
+- Review sessions
+- Instructor hints
+- Screenshots
+- Grading rubrics
+- Student’s current grade
+- Time remaining
+
+### Outputs
+
+- Study plan
+- Practice exam
+- Cheat sheet
+- High-yield topic map
+- Trap list
+- Weakness detector
+- “What do I need on the final?” calculator
+- Course skill tree
+- Concept graph
+
+
+
 
 
